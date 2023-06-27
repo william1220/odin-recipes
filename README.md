@@ -10,19 +10,12 @@
     Foundations: (Recipes)
     <br/>
     <br/>
-    <a href="https://github.com/william1220/odin-recipes">View Demo</a>
+    <a href="https://github.com/william1220/odin-recipes](https://william1220.github.io/odin-recipes/)">View Web Page</a>
   </p>
 </p>
 
 ![Contributors](https://img.shields.io/github/contributors/william1220/odin-recipes?color=dark-green) 
 
-## Table Of Contents
-
-* [About the Project](#about-the-project)
-* [Built With](#built-with)
-* [Contributing](#contributing)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
